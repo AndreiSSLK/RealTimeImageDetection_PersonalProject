@@ -1,6 +1,6 @@
 # Real Time Image Detection
 
-This program will detect the Metin2 window, capture the image and detect in real time the fish using Cascade recognising, a  supervised Machine learning algoritm.
+This project is based on the OpenCV library. The program will detect the Metin2 window, capture the image and detect in real time the fish using Cascade recognising, a  supervised Machine learning algoritm.
 
 ## How it works
 
